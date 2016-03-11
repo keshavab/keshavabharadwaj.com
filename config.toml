@@ -1,0 +1,49 @@
+# basic config
+baseurl = "http://www.keshavabharadwaj.com"
+languageCode = "en-us"
+title = "keshavab.io"
+
+# pygmentsstyle
+pygmentsstyle = "monokai"
+
+# Paginator value
+Paginate = 6
+
+# Analytics
+googleAnalytics = "UA-66360859-1"
+
+# disqus
+disqusShortname = "keshavabharadwaj"
+
+# theme
+theme = "hugo-cactus-theme"
+
+[permalinks]
+	post = "/:year/:month/:day/:filename"
+
+# params to be used within theme
+[params]
+  name = "Keshava Bharadwaj"
+  description = "Home of Keshava Bharadwaj"
+  bio = "[cloud](https://en.wikipedia.org/wiki/Cloud_computing) | [python](https://www.python.org/) | [golang](https://golang.org/) | [Messi](https://en.wikipedia.org/wiki/Lionel_Messi) | [zen](https://en.wikipedia.org/wiki/Zen)"
+
+	# read more pages
+	readMorePages = 5
+
+  # twitter
+  twitter = "keshavab"
+  enableRSS = true
+
+  # social icon styles
+  socialIconStyle = "circle"
+
+	# share on twitter
+	shareOnTwitter = true
+
+	# share on facebook
+	shareOnFacebook = false
+
+
+# links for social
+[social]
+  twitter = "http://www.twitter.com/keshavab"
