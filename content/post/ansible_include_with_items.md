@@ -3,6 +3,7 @@ comments = true
 date = 2015-08-21T00:00:00Z
 tags = ["ansible", "with_items", "include"]
 title = "Ansible - include + with_items back in 2.0"
+description = "Ansible feature that helps include a yml file automatically based on a variable."
 +++
 
 One of the widely used(abused) feature of [Ansible](https://github.com/ansible/ansible) which was taken back in 1.6 is back in 2.0.

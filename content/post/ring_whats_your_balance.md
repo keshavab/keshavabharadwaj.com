@@ -2,6 +2,7 @@
 comments = true
 date = 2014-08-31T00:00:00Z
 title = "Ring, What’s your balance ?"
+description = "Understanding what the balance of a ring means in OpenStack Swift."
 +++
 
 ![balance](/assets/balance.jpg)

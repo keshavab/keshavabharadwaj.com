@@ -3,6 +3,7 @@ comments = true
 date = 2015-07-25T00:00:00Z
 tags = ["kitematic", "docker"]
 title = "Kitematic freezes at 99%"
+description = "Making Kitematic work when it hangs sometimes."
 +++
 
 There is a case when [Kitematic](https://kitematic.com/) freezes or hangs when started at 99%.

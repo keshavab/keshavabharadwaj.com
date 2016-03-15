@@ -17,6 +17,7 @@ tags = [
     "calico"
 ]
 title = "Container ecosystem - applications, tools and technologies."
+description = "Comprehensive, though not complete listing of container ecosystem."
 +++
 
 Container ecosystem is evolving and bringing along with it a hell lot of other technologies

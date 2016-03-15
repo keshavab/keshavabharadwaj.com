@@ -8,6 +8,7 @@ tags = [
     "storage api"
 ]
 title = "S3 compatible storage systems"
+description = "A list of storage systems that provide S3 compatible API"
 +++
 
 [Amazon S3](https://aws.amazon.com/s3/) has become the de facto standard for object storage. In one of

@@ -2,6 +2,8 @@
 comments =  true
 date = 2011-08-25T00:00:00Z
 title = "Converting windows line delimiters into unix delimiters"
+description = "Converting windows line delimiters into unix delimiters."
+
 +++
 
 The problem of working in windows and later transferring files to unix is that it will have a "^M" character at end of each file. This is because in Windows, lines

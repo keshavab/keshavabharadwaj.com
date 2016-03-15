@@ -2,6 +2,7 @@
 comments = true
 date = 2014-09-24T00:00:00Z
 title = "Swift – Object metadata explained"
+description = "An in-depth analysis on how the meta data is stores in OpenStack Swift."
 +++
 
 ![metadata](/assets/metadata.jpg)

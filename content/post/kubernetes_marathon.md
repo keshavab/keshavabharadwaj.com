@@ -2,7 +2,8 @@
 comments = true
 date = 2015-08-19T00:00:00Z
 tags = ["kubernetes", "mesos", "marathon", "docker", "containers"]
-title = "Kuberetes vs Mararthon- how they fare"
+title = "Kuberetes vs Mararthon - how they fare"
+description = "A comparision of Kubernetes vs Mesos/Marathon and how they fare against each other."
 +++
 
 [Kubernetes(k8s)](http://kubernetes.io/) is trying to evolve itself as the defacto standard for container

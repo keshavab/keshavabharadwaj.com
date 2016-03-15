@@ -2,6 +2,8 @@
 comments = true
 date = 2013-10-20T00:00:00Z
 title = "Airtel 4G LTE card + Xubuntu - Making it work"
+description = "Making airtel 4G dongle work on linux 64-bit systems."
+tags = ["airtel", "airtel4g", "4g", "dongle", "linux", "64-bit"]
 +++
 
 I have Xubuntu 12.04 LTS (64-bit) and got a new Airtel 4G LTE usb Card. ( ZTE MF 825a).

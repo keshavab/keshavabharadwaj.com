@@ -2,6 +2,7 @@
 comments = true
 date = 2012-05-27T00:00:00Z
 title = "Code by James Gosling took good three years to mature"
+description = "Thoughts on time for code maturity."
 +++
 
 I was wandering into basics of algorithms and found this [interesting page](http://www.cs.ubc.ca/~harrison/Java/sorting-demo.html) and [this](http://www.cs.ubc.ca/~harrison/Java/QSortAlgorithm.java.html) article. Probably, this was written in the earliest days of Java, when the authors of Java were trying to just prove that code can be written in Java , and they took algorithms as their test bed. Typical for anybody to do so.

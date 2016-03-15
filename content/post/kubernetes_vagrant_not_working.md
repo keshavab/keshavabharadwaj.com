@@ -3,6 +3,7 @@ comments = true
 date = 2015-08-17T00:00:00Z
 tags = ["kubernetes", "kube-api", "vagrant"]
 title = "Kubernetes vagrant - unable to connect to api server"
+description = "Making Kubernetes work when it errors out."
 +++
 
 When running Kubernetes(K8s) vagrant(sometimes standalone installations), the vagrant up fails with the following error

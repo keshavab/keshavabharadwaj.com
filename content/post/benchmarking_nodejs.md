@@ -2,6 +2,7 @@
 comments = true
 date = 2011-12-13T00:00:00Z
 title = "Benchmarking nodejs : comparing nodejs and tomcat"
+description = "Benchmarking and sample code to compare nodejs and tomcat."
 +++
 
 I've just started exploring nodejs after reading much gung-ho on net about it's scalability and performance.

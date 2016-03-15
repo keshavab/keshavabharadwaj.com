@@ -2,6 +2,7 @@
 comments = true
 date = 2014-03-07T00:00:00Z
 title = "TP-Link MR3020 and ZTE MF 825A - Making it work"
+description = "Making the TP-link nano router work with airtel 4g dongle."
 +++
 
 You have got ZTE MF 825A ( 4G dongle, typically in india with airtel)

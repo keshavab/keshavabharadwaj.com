@@ -2,6 +2,7 @@
 comments = true
 date = 2014-09-04T00:00:00Z
 title = "Label your devices, luke!"
+description = "Best practices w.r.t labelling of disks when using openstack swift."
 +++
 
 ![label](/assets/storage-label.jpg)
